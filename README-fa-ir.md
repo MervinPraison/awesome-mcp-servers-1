@@ -166,6 +166,7 @@
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - یکپارچه‌سازی با API Oorlogsbronnen (منابع جنگ) برای دسترسی به سوابق تاریخی جنگ جهانی دوم، عکس‌ها و اسناد از هلند (۱۹۴۰-۱۹۴۵)
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - یکپارچه‌سازی با API Rijksmuseum برای جستجوی آثار هنری، جزئیات و مجموعه‌ها
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - یکپارچه‌سازی سرور MCP برای DaVinci Resolve که ابزارهای قدرتمندی برای ویرایش ویدیو، درجه‌بندی رنگ، مدیریت رسانه و کنترل پروژه فراهم می‌کند
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - سرور MCP محلی برای تولید دارایی‌های تصویری با Google Gemini (Nano Banana 2 / Pro). از خروجی شفاف PNG/WebP، تغییر اندازه/برش دقیق، حداکثر ۱۴ تصویر مرجع و grounding با Google Search پشتیبانی می‌کند.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - یک سرور MCP که API AniList را برای اطلاعات انیمه و مانگا یکپارچه می‌کند
 
 
@@ -242,6 +243,8 @@
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) 🐍 ☁️ - پیاده‌سازی سرور MCP برای پلتفرم هماهنگ‌سازی گردش کار [Kestra](https://kestra.io).
 - [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) 🎖️ 📇 ☁️ - ایجاد، تغییر و حذف جنبه‌های مختلف [Liveblocks](https://liveblocks.io) مانند اتاق‌ها، رشته‌ها، نظرات، اعلان‌ها و موارد دیگر. علاوه بر این، دسترسی خواندن به Storage و Yjs را دارد.
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 A - سرور قدرتمند Kubernetes MCP با پشتیبانی اضافی برای OpenShift. علاوه بر ارائه عملیات CRUD برای **هر** منبع Kubernetes، این سرور ابزارهای تخصصی برای تعامل با کلاستر شما فراهم می‌کند.
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp) [![mctl-mcp MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp) ☁️ - پلتفرم بومی هوش مصنوعی برای مدیریت کوبرنتیز و گیت‌اپس خودکار (بیش از ۳۰ ابزار).
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - سرور MCP برای اکوسیستم Rancher با عملیات Kubernetes چندکلاستری، مدیریت Harvester HCI (ماشین مجازی، ذخیره‌سازی، شبکه) و ابزارهای Fleet GitOps.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - با کتابخانه fastmcp یکپارچه می‌شود تا طیف کاملی از قابلیت‌های NebulaBlock API را به عنوان ابزارهای قابل دسترس در معرض دید قرار دهد
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - یک سرور Terraform MCP که به دستیاران هوش مصنوعی امکان مدیریت و عملیات محیط‌های Terraform را می‌دهد و خواندن پیکربندی‌ها، تحلیل planها، اعمال پیکربندی‌ها و مدیریت state Terraform را امکان‌پذیر می‌کند.
 - [openstack-kr/python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) 🐍 ☁️ - سرور MCP OpenStack برای مدیریت زیرساخت ابری مبتنی بر openstacksdk.
@@ -304,6 +307,7 @@
 
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - سرور Cisco pyATS که تعامل ساختاریافته و مبتنی بر مدل با دستگاه‌های شبکه را امکان‌پذیر می‌کند.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) 📇 ☁️ 🏠 - یک سرور MCP که IDE شما را با کمک‌های مبتنی بر هوش مصنوعی برای ابزار Intlayer i18n / CMS تقویت می‌کند: دسترسی هوشمند به CLI، دسترسی به مستندات.
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - سرور MCP برای یکپارچه‌سازی دستیار هوش مصنوعی [OpenClaw](https://github.com/openclaw/openclaw). امکان واگذاری وظایف از Claude به عامل‌های OpenClaw با ابزارهای همگام/ناهمگام، احراز هویت OAuth 2.1 و انتقال SSE برای Claude.ai را فراهم می‌کند.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - یک سرور Model Context Protocol که دسترسی به iTerm را فراهم می‌کند. می‌توانید دستورات را اجرا کنید و در مورد آنچه در ترمینال iTerm می‌بینید سؤال بپرسید.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - اجرای هر دستوری با ابزارهای `run_command` و `run_script`.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - مفسر Python امن مبتنی بر `LocalPythonExecutor` از HF Smolagents
@@ -557,6 +561,7 @@
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) 📇 🏠 - سرور MCP که به دستیاران هوش مصنوعی دسترسی یکپارچه به کامپوننت‌ها، بلوک‌ها، دموها و متادیتای shadcn/ui v4 را می‌دهد.
 - [jsdelivr/globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) 🎖️ 📇 ☁️ - سرور MCP Globalping به کاربران و LLMها دسترسی می‌دهد تا ابزارهای شبکه مانند ping، traceroute، mtr، HTTP و DNS resolve را از هزاران مکان در سراسر جهان اجرا کنند.
 - [kadykov/mcp-openapi-schema-explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) 📇 ☁️ 🏠 - دسترسی بهینه از نظر توکن به مشخصات OpenAPI/Swagger از طریق منابع MCP.
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - سرور MCP برای [Dash](https://kapeli.com/dash)، مرورگر مستندات API در macOS. جستجوی فوری در بیش از ۲۰۰ مجموعه مستندات.
 - [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - یک سرور میان‌افزار که به چندین نمونه ایزوله از یک سرور MCP اجازه می‌دهد تا به طور مستقل با فضاهای نام و پیکربندی‌های منحصر به فرد همزیستی کنند.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 🐍 🏠 - سرور MCP برای دسترسی و مدیریت پرامپت‌های برنامه LLM ایجاد شده با مدیریت پرامپت [Langfuse]([https://langfuse.com/](https://langfuse.com/docs/prompts/get-started)).
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) 🦀 🏠 🍎 🪟 🐧  - یک سرور MCP برای تعامل با Neovim
@@ -674,6 +679,7 @@
 - [box/mcp-server-box-remote](https://github.com/box/mcp-server-box-remote/) 🎖️ ☁️ - سرور Box MCP به عامل‌های هوش مصنوعی شخص ثالث اجازه می‌دهد به طور امن و یکپارچه به محتوای Box دسترسی داشته باشند و از ابزارهایی مانند جستجو، پرسیدن سؤال از فایل‌ها و پوشه‌ها و استخراج داده استفاده کنند.
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - به اشتراک گذاشتن زمینه کد با LLMها از طریق MCP یا کلیپ‌بورد
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 🏎️ 🏠 - ابزار ادغام فایل، مناسب برای محدودیت‌های طول چت هوش مصنوعی.
+- [FI-Mihej/text_file_read_and_refactor_mcp](https://github.com/FI-Mihej/text_file_read_and_refactor_mcp) [![text_file_read_and_refactor_mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp) 🐍 🏠 🍎 🪟 🐧 - سرور MCP مبتنی بر stdio برای پایتون با مصرف بهینه توکن که ابزارهای ایمن برای جستجو، خواندن و بازآرایی (Refactoring) فایل های متنی را ارائه می دهد. این ابزارها به صورت خودکار BOM فایل و کدپیج (Code Page) را تشخیص می دهند و ابزارهای ویرایش، فایل ها را با همان کدگذاری و BOM اصلی آن ها ذخیره می کنند. `uvx text-file-read-and-refactor-mcp`
 - [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - یک سیستم فایل که امکان مرور و ویرایش فایل‌ها را دارد که در Java با استفاده از Quarkus پیاده‌سازی شده است. به صورت jar یا ایمیج بومی در دسترس است.
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - یکپارچه‌سازی با Box برای لیست کردن، خواندن و جستجوی فایل‌ها
 - [isaacphi/mcp-gdrive](https://github.com/isaacphi/mcp-gdrive) 📇 ☁️ - سرور Model Context Protocol (MCP) برای خواندن از Google Drive و ویرایش Google Sheets.
@@ -704,6 +710,7 @@
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - سرور MCP که عامل‌های هوش مصنوعی را به [پلتفرم Chargebee](https://www.chargebee.com/) متصل می‌کند.
 - [codex-data/codex-mcp](https://github.com/Codex-Data/codex-mcp) 🎖️ 📇 ☁️ - یکپارچه‌سازی با [Codex API](https://www.codex.io) برای داده‌های بلاکچین و بازار غنی‌شده بی‌درنگ در بیش از ۶۰ شبکه
 - [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - سرور DexPaprika MCP Coinpaprika [DexPaprika API](https://docs.dexpaprika.com) با کارایی بالا را در معرض دید قرار می‌دهد که بیش از ۲۰ زنجیره و بیش از ۵ میلیون توکن را با قیمت‌گذاری بی‌درنگ، داده‌های استخر نقدینگی و داده‌های تاریخی OHLCV پوشش می‌دهد و به عامل‌های هوش مصنوعی دسترسی استاندارد به داده‌های جامع بازار از طریق Model Context Protocol را می‌دهد.
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - سواپ‌های زنجیره‌ای متقاطع و پل‌زنی بین بلاکچین‌های EVM و Solana از طریق پروتکل deBridge. به عامل‌های هوش مصنوعی امکان کشف مسیرهای بهینه، ارزیابی کارمزدها و آغاز معاملات غیرحضانتی را می‌دهد.
 - [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) 📇 ☁️ - یک سرور MCP برای دسترسی به داده‌های بازار کریپتو بی‌درنگ و معامله از طریق بیش از ۲۰ صرافی با استفاده از کتابخانه CCXT. از spot، futures، OHLCV، موجودی‌ها، سفارشات و موارد دیگر پشتیبانی می‌کند.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - یکپارچه‌سازی با Yahoo Finance برای دریافت داده‌های بازار سهام شامل توصیه‌های آپشن‌ها
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - یکپارچه‌سازی با Tastyworks API برای مدیریت فعالیت‌های معاملاتی در Tastytrade
@@ -1002,6 +1009,7 @@
 
 ### 🔒 <a name="security"></a>امنیت
 
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - سرور MCP برای تحلیل بسته‌های شبکه Wireshark با قابلیت‌های ضبط، آمار پروتکل، استخراج فیلد و تحلیل امنیتی.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub یک چارچوب honeypot است که به شما امکان می‌دهد ابزارهای honeypot را با استفاده از MCP بسازید. هدف آن شناسایی تزریق پرامپت یا رفتار عامل مخرب است. ایده اصلی این است که به عامل ابزارهایی بدهید که در کار عادی خود هرگز از آنها استفاده نمی‌کند.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - سرور MCP برای یکپارچه‌سازی Ghidra با دستیاران هوش مصنوعی. این پلاگین تحلیل باینری را امکان‌پذیر می‌کند و ابزارهایی برای بازرسی تابع، دکامپایل، کاوش حافظه و تحلیل import/export از طریق Model Context Protocol فراهم می‌کند.
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - سرور MCP متمرکز بر امنیت که دستورالعمل‌های ایمنی و تحلیل محتوا را برای عامل‌های هوش مصنوعی فراهم می‌کند.
@@ -1021,6 +1029,7 @@
 - [gbrigandi/mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh) 🦀 🏠 🚨 🍎 🪟 🐧 - یک سرور MCP مبتنی بر Rust که Wazuh SIEM را به دستیاران هوش مصنوعی متصل می‌کند و هشدارهای امنیتی بی‌درنگ و داده‌های رویداد را برای درک متنی پیشرفته فراهم می‌کند.
 - [hieutran/entraid-mcp-server](https://github.com/hieuttmmo/entraid-mcp-server) 🐍 ☁️ - یک سرور MCP برای دایرکتوری Microsoft Entra ID (Azure AD)، کاربر، گروه، دستگاه، ورود به سیستم و عملیات امنیتی از طریق Microsoft Graph Python SDK.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - سرور MCP برای دسترسی به [Intruder](https://www.intruder.io/)، که به شما در شناسایی، درک و رفع آسیب‌پذیری‌های امنیتی در زیرساخت خود کمک می‌کند.
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - یک سرور Model Context Protocol بومی برای Ghidra. شامل پیکربندی و لاگ‌گیری GUI، ۳۱ ابزار قدرتمند و بدون وابستگی خارجی است.
 - [jyjune/mcp_vms](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 - یک سرور Model Context Protocol (MCP) که برای اتصال به یک برنامه ضبط CCTV (VMS) برای بازیابی جریان‌های ویدیویی ضبط شده و زنده طراحی شده است. همچنین ابزارهایی برای کنترل نرم‌افزار VMS فراهم می‌کند، مانند نمایش دیالوگ‌های زنده یا پخش برای کانال‌های خاص در زمان‌های مشخص.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - یک سرور Model Context Protocol برای Ghidra که به LLMها امکان مهندسی معکوس خودکار برنامه‌ها را می‌دهد. ابزارهایی برای دکامپایل باینری‌ها، تغییر نام متدها و داده‌ها و لیست کردن متدها، کلاس‌ها، importها و exportها فراهم می‌کند.
@@ -1046,6 +1055,7 @@
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APKTool MCP Server یک سرور MCP برای Apk Tool است تا اتوماسیون در مهندسی معکوس APKهای Android را فراهم کند.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP یک پلاگین و سرور MCP برای decompiler JADX است که مستقیماً با Model Context Protocol (MCP) یکپارچه می‌شود تا پشتیبانی از مهندسی معکوس زنده را با LLMهایی مانند Claude فراهم کند.
 - [HaroldFinchIFT/vuln-nist-mcp-server](https://github.com/HaroldFinchIFT/vuln-nist-mcp-server) 🐍 ☁️️ 🍎 🪟 🐧 - یک سرور Model Context Protocol (MCP) برای کوئری نقاط پایانی API پایگاه داده ملی آسیب‌پذیری NIST (NVD).
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - آمادگی پساکوانتومی برای عامل‌های کدنویسی هوش مصنوعی: کدها را برای رمزنگاری آسیب‌پذیر در برابر کوانتوم (RSA/ECDH/ECDSA/DH) اسکن می‌کند، مخاطره harvest-now-decrypt-later را توضیح می‌دهد، راهنمای مهاجرت به NIST ML-KEM/ML-DSA/SLH-DSA (و ترکیبی) ارائه می‌دهد، اصلاحات را تأیید و وابستگی‌ها را بررسی می‌کند. فقط ابزارهای مشاوره‌ای مبتنی بر محتوا. به‌صورت محلی (`npx @quantakrypto/mcp`) یا از طریق نقطه‌پایانی OAuth میزبانی‌شده در [mcp.quantakrypto.com](https://mcp.quantakrypto.com) اجرا کنید.
 
 ### 🌐 <a name="social-media"></a>رسانه‌های اجتماعی
 
